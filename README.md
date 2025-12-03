@@ -24,9 +24,3 @@
 <a target="_blank" href="https://discord.com/users/dungertw" style="display: inline-block;">
   <img src="https://img.shields.io/badge/discord-logo?style=for-the-badge&logo=discord&logoColor=white&color=%230096F3" alt="discord" />
 </a>
-
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryonnie&show_icons=true&locale=en" alt="ryonnie" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryonnie&" alt="ryonnie" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryonnie&show_icons=true&locale=en&layout=compact" alt="ryonnie" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryonnie" alt="ryonnie" /></a></p>
